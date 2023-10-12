@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BaseDataHwOtus", "BaseDataHwOtus\BaseDataHwOtus.csproj", "{BDF08C3A-8DC4-46E5-8C56-7FF1EF0937F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDF08C3A-8DC4-46E5-8C56-7FF1EF0937F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDF08C3A-8DC4-46E5-8C56-7FF1EF0937F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDF08C3A-8DC4-46E5-8C56-7FF1EF0937F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDF08C3A-8DC4-46E5-8C56-7FF1EF0937F8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1C8608C7-B959-4D0E-9B0E-AAE4BE4861C9}
+	EndGlobalSection
+EndGlobal
